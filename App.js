@@ -1,4 +1,5 @@
 console.log("Hasindu Chanuka");
+console.log("Sanjeewa");
 
 const condition = true;
 
